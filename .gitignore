@@ -203,5 +203,11 @@ cython_debug/
 
 # Marimo
 marimo/_static/
+
+# Dataset
+Uitgebreide_VKM_dataset.csv
+
+
+
 marimo/_lsp/
 __marimo__/
