@@ -205,7 +205,9 @@ cython_debug/
 marimo/_static/
 
 # Dataset
-Uitgebreide_VKM_dataset.csv
+.Mini-opdracht-les-1.ipynb
+
+
 
 
 
